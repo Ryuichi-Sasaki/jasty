@@ -17,4 +17,5 @@ dependencies:
 library:
   source-dirs: src
   dependencies:
+  - megaparsec
   - scientific
