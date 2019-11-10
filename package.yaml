@@ -16,3 +16,5 @@ dependencies:
 
 library:
   source-dirs: src
+  dependencies:
+  - scientific
