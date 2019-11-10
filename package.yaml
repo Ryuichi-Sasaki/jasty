@@ -1,0 +1,18 @@
+name:                jasty
+version:             0.1.0.0
+github:              "Ryuichi-Sasaki/jasty"
+license:             BSD3
+author:              "Ryuichi Sasaki"
+maintainer:          "tomitake.yokosekanemoto@gmail.com"
+copyright:           "(c) 2019, Ryuichi Sasaki"
+
+extra-source-files:
+- README.md
+
+description:         Please see the README on GitHub at <https://github.com/Ryuichi-Sasaki/jasty#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src
